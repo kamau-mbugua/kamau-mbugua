@@ -7,15 +7,18 @@
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org) and [Flutter](https://flutter.dev/)
 - 📫 How to reach me:
 <p align="center"
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/mbuguakamau_.svg?style=social&label=Follow%20%40mbuguakamau_)](https://twitter.com/mbuguakamau_)
-<a href="https://wa.me/254727589261?text=Hello!%20Mbugua">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+<a href="https://twitter.com/mbuguakamau_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
   </a>&nbsp;&nbsp;
-  <a href="linkedin.com/in/kamau-mbugua-765a20141/">
+ <a href="https://linkedin.com/in/kamau-mbugua-765a20141/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  </p>
-- ⚡ Fun fact: 😄😄😄😄
+  <a href="kelvinkamaumbugua@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </p>
+ 
+- ⚡Fun fact: 😄😄😄😄
 
 ### Languages and Tools:
 
