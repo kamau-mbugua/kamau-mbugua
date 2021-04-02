@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Mobile developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamau-mbugua" alt="Kamau Mbugua" /> </p>
 
+- 🔭 I’m currently working on Java/Kotlin Mobile Apps
+- 👯 Looking forward to collaborate on fun projects
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org) and [Flutter](https://flutter.dev/)
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/mbuguakamau_.svg?style=social&label=Follow%20%40mbuguakamau_)](https://twitter.com/mbuguakamau_)
 - ⚡ Fun fact: ...
