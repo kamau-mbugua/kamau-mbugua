@@ -6,7 +6,7 @@
 - 👯 Looking forward to collaborate on fun projects
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org) and [Flutter](https://flutter.dev/)
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/mbuguakamau_.svg?style=social&label=Follow%20%40mbuguakamau_)](https://twitter.com/mbuguakamau_)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 😄😄😄😄
 
 <!--
 **kamau-mbugua/kamau-mbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
