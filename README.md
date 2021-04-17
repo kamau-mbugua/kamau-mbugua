@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Java/Kotlin Mobile Apps
 - 👯 Looking forward to collaborate on fun projects
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org) <!-- and [Flutter](https://flutter.dev/) -->
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org)  and [Flutter](https://flutter.dev/) 
 - 📫 How to reach me:
 <p align="center"
 <a href="https://twitter.com/mbuguakamau_">
