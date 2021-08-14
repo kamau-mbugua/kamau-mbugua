@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kelvin Kamau Mbugua</h1>
 <h3 align="center">A passionate Mobile developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamau-mbugua" alt="ndiritumichael" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamau-mbugua" alt="Kamau Mbugua" /> </p>
 
 - 🔭 I’m currently working on Java/Kotlin Mobile Apps
@@ -43,6 +44,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kamau-mbugua&count_private=true&show_icons=true&theme=buefy" alt="kamau-mbugua" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamau-mbugua&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="kamau-mbugua" height="165" />
  </p>
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamau-mbugua&" alt="kamau-mbugua" /></p>
+
 
 <!--
 **kamau-mbugua/kamau-mbugua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
