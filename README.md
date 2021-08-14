@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kelvin Kamau Mbugua</h1>
+<h1 align="center">Jambo!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kelvin Kamau Mbugua</h1>
 <h3 align="center">A passionate Mobile developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamau-mbugua" alt="ndiritumichael" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamau-mbugua" alt="kamau-mbugua" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamau-mbugua" alt="Kamau Mbugua" /> </p>
 
 - 🔭 I’m currently working on Java/Kotlin Mobile Apps
@@ -17,6 +17,9 @@
   <a href="kelvinkamaumbugua@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
+   <a href="https://kamau-mbugua.github.io/">
+  <img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fkamau-mbugua.github.io%2F" />
+    </a>&nbsp;&nbsp;
  </p>
  
 - ⚡Fun fact: 😄😄😄😄
@@ -45,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamau-mbugua&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="kamau-mbugua" height="165" />
  </p>
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamau-mbugua&" alt="kamau-mbugua" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamau-mbugua&" alt="kamau-mbugua" /></p>
 
 
 <!--
