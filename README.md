@@ -3,9 +3,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamau-mbugua" alt="kamau-mbugua" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamau-mbugua" alt="Kamau Mbugua" /> </p>
 
-- 🔭 I’m currently working on Java/Kotlin Mobile Apps
+- 🔭 I’m currently working on Java/Kotlin/Flutter Mobile Apps
 - 👯 Looking forward to collaborate on fun projects
-- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org)  and [Flutter](https://flutter.dev/) 
+- 🌱 I’m currently learning [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)  and [NodeJS](https://nodejs.org/en/) 
 - 📫 How to reach me:
 <p align="center"
 <a href="https://twitter.com/mbuguakamau_">
