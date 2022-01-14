@@ -3,6 +3,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamau-mbugua" alt="kamau-mbugua" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamau-mbugua" alt="Kamau Mbugua" /> </p>
 
+<a href="https://wakatime.com/@679b25b4-7f3e-48b7-b72c-361b3df1a07d"><img src="https://wakatime.com/badge/user/679b25b4-7f3e-48b7-b72c-361b3df1a07d.svg" alt="Total time coded since Jan 3 2022" /></a>
+
 - 🔭 I’m currently working on Java/Kotlin/Flutter Mobile Apps
 - 👯 Looking forward to collaborate on fun projects
 - 🌱 I’m currently learning [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)  and [NodeJS](https://nodejs.org/en/) 
