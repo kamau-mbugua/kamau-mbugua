@@ -1,4 +1,4 @@
-<h1 align="center">Jambo!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kelvin</h1>
+<h1 align="center">Jambo!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kelvin</h1>
 <h3 align="center">A passionate Mobile developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamau-mbugua" alt="kamau-mbugua" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamau-mbugua" alt="Kamau Mbugua" /> </p>
