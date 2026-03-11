@@ -12,10 +12,11 @@ The entire repository consists of a single `README.md` file written in HTML-flav
 
 ## Key Details
 
-- The README uses HTML (`<p>`, `<h1>`, `<h3>`, `<a>`, `<img>`) for layout and alignment — not pure Markdown
+- The README uses HTML (`<p>`, `<h1>`, `<h3>`, `<a>`, `<img>`, `<table>`) for layout and alignment — not pure Markdown
 - Dynamic images are pulled from external services: github-readme-stats, github-readme-streak-stats, github-profile-trophy, shields.io badges, komarev profile counter, and wakatime
 - All badge/stat URLs reference the username `kamau-mbugua` — keep this consistent when editing
-- The profile highlights Google Developer Expert (Cloud, AI, Infrastructure) status — this is a central identity element
+- The profile highlights: GDE (Cloud, AI, Infrastructure), Riverbank Solutions Ltd, fintech/payments expertise, and mobile development (Kotlin, Java, Dart/Flutter)
+- The README includes sections: About, Experience table, Connect links, Languages & Tools (categorized), Notable Projects (grid), GitHub Stats, Achievements, GDE Highlights, Education
 
 ## Editing Guidelines
 
